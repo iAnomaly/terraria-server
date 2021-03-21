@@ -1,0 +1,7 @@
+world=/home/docker/.local/share/Terraria/Worlds/Terraria.wld
+autocreate=1
+worldname=Terraria
+difficulty=0
+maxplayers=16
+secure=1
+
